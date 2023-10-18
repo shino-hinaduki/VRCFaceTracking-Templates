@@ -1,12 +1,12 @@
 {
   "name": "adjerry91.vrcft.templates",
-  "displayName": "VRCFT - Jerry's Templates",
-  "version": "5.0.5",
-  "description": "Jerry's VRChat Face Tracking Unity templates to be used with VRCFaceTracking",
-  "url": "https://github.com/adjerry91/VRCFaceTracking-Templates",
+  "displayName": "VRCFT - Jerry's Templates (Forked by Shino)",
+  "version": "5.0.5+azarashino.0.1.0",
+  "description": "Jerry's VRChat Face Tracking Unity templates to be used with VRCFaceTracking (Forked by Shino)",
+  "url": "https://github.com/shino-hinaduki/VRCFaceTracking-Templates",
   "author": {
-    "name": "Adjerry91",
-    "url": "https://github.com/adjerry91"
+    "name": "Shino Hinaduki",
+    "url": "https://github.com/shino-hinaduki"
   },
   "gitDependencies": {},
   "vpmDependencies": {},
