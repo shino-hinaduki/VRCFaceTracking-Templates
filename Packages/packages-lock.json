@@ -1,7 +1,13 @@
 {
   "dependencies": {
-    "azarashino.info.vrcft.templates": {
+    "adjerry91.vrcft.templates": {
       "version": "file:adjerry91.vrcft.templates",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "azarashino.info.expression-parameter-import": {
+      "version": "file:azarashino.info.expression-parameter-import",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
